@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PanelWithListener">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/PanelWithListener_jar/PanelWithListener.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
